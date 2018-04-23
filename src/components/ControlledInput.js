@@ -9,7 +9,7 @@ export default class ControlledInput extends React.Component {
     }
   }
 
-  handleChange = () {
-    
+  handleChange = event => {
+
   }
 }
