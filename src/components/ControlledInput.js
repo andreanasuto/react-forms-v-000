@@ -14,4 +14,9 @@ export default class ControlledInput extends React.Component {
       value: event.target.value,
       })
   }
+  render() {
+    return (
+      
+    )
+  }
 }
